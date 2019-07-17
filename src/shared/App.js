@@ -18,7 +18,7 @@ export default class App extends Component {
                 <Helmet>
                     <title>App Component | React Universal</title>
                 </Helmet>
-
+                <h2>Mes couilles</h2>
                 <h1>Welcome to React Fiber.</h1>
                 <UniversalComponent name="getting-started" />
             </div>
